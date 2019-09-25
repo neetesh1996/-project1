@@ -1,0 +1,38 @@
+.customDiv{
+  margin-top: 30px;
+    background-color: ;
+}
+.Custom{
+ background-color:white;
+    margin-top: 30px;
+}
+.cDiv{
+    height:300px;
+    background-color:gray ;
+    border-radius: 5px;
+}
+.bDiv{
+    height: 80px;
+    background-color:lightgray ;
+    border-radius: 5px;
+
+}
+.col-xs-2{
+    height:50px;
+    width:50px;
+    margin-left:0px;
+    margin-top: 0px;
+    background-color: gray;
+}
+.col-xs-10{
+    background-color: ;
+    margin-left:0px;
+    margin-top: 0px;
+
+}
+.navbar-left,h1,h5{
+    margin-left: 100px;
+}
+.well{
+    height:180px;
+}
